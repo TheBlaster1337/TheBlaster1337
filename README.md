@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slavmen a.k.a Nil a.k.a TheBlaster1337
+- 👋 Hi, I’m @Slavmen a.k.a TheBlaster1337
 - Languages: 🇱🇹,🇬🇧,🇷🇺
 - Knowledge: Js, Lua, Html
 - Discord: TheBlaster1337#9831
