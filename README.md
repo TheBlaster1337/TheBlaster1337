@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slavmen a.k.a TheBlaster1337
 - Languages: 🇱🇹,🇬🇧,🇷🇺
-- Knowledge: Js, Lua, Html
+- Knowledge: Js, Lua, C#
 - Discord: TheBlaster1337#1337
 - Youtube: https://www.youtube.com/channel/UCQmzVjLTxknFvXitMQ_b0rQ
 - Twitch: https://www.twitch.tv/theblaster1337
