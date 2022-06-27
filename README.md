@@ -1,3 +1,9 @@
+  <p align="center">
+    <a href="https://discord.com/users/943374631644045363">
+        <img title="Discord profile" alt="Discord profile" src="https://discord.c99.nl/widget/theme-3/865694989543669762.png"/>
+    </a>
+</p>
+
 - 👋 Hi, I’m @Slavmen a.k.a TheBlaster1337 
 - Languages: 🇱🇹,🇬🇧,🇷🇺
 - Knowledge: Js, Lua, C#
