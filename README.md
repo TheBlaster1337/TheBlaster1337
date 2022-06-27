@@ -8,5 +8,5 @@
 - Twitch: https://www.twitch.tv/theblaster1337
 - Soundcloud: https://soundcloud.com/the-blaster-1337
 - My discord server: https://discord.io/theblaster1337mods+
-- Favorite gradient: background: linear-gradient(to right, #240b36, #c31432);
+- Favorite gradient: #240b36, #c31432
 
