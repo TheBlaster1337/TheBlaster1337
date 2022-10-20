@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Slavmen a.k.a TheBlaster1337 
 - Languages: 🇱🇹,🇬🇧,🇷🇺
-- Knowledge: Js, Lua, C#
+- Knowledge: HTML, Javascript, Lua, C#, C++
 - Favorite gradient: #240b36, #c31432
 - Discord: !𝐓𝐡𝐞𝐁𝐥𝐚𝐬𝐭𝐞𝐫𝟏𝟑𝟑𝟕#8119
 - Youtube: https://www.youtube.com/channel/UCQmzVjLTxknFvXitMQ_b0rQ
