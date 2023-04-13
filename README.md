@@ -9,3 +9,4 @@
 - Twitch: https://www.twitch.tv/theblaster1337
 - Soundcloud: https://soundcloud.com/the-blaster-1337
 - My discord server: https://discord.io/theblaster1337mods+
+<a href="https://www.buymeacoffee.com/theblaster1337" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
