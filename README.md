@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @Slavmen a.k.a TheBlaster1337 
+- 👋 Hi, I’m TheBlaster1337 
 - Languages: 🇱🇹,🇬🇧,🇷🇺
 - Knowledge: HTML, Javascript, Lua, C#, C++
 - Favorite gradient: #240b36, #c31432
